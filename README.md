@@ -29,6 +29,6 @@ Pull requestler kabul edilir.Büyük değişikikler için,lütfen önce neyi de�
 
 [MIT] (https://choosealicense.com/licenses/mit/)
 
-![Proje](/kodluyoruzilkrepo/proje1.png)
+![Proje](/proje1.png)
 
 
